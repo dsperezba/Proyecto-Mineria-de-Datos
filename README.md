@@ -1,1 +1,1 @@
-# Proyecto-Mineria-de-Datos
+# Proyecto Mineria de Datos
