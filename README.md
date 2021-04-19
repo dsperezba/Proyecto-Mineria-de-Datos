@@ -11,7 +11,7 @@ La base de datos *"LFW - People (Face Recognition)"* usada en el desarrollo del 
 
 ## Objetivo
 
-Mediante el desarrollo y uso de una [Red Neuronal Convolucional](https://www.juanbarrios.com/redes-neurales-convolucionales/#:~:text=célula%20sea%20activada.-,Cómo%20estan%20construidas%20y%20cómo%20funcionan,un%20mapeo%20causal%20no-lineal.), se desea realizar un respectivo tratamiento de imágenes cuyo fin es el de emplear un reconocimiento facial que permita identificar los rasgos básicos en el rostro de una persona, como lo son la nariz, ojos y boca.
+Mediante el desarrollo y uso de [Redes Neuronales Convolucionales](https://www.juanbarrios.com/redes-neurales-convolucionales/#:~:text=célula%20sea%20activada.-,Cómo%20estan%20construidas%20y%20cómo%20funcionan,un%20mapeo%20causal%20no-lineal.), se desea realizar un respectivo tratamiento de imágenes cuyo fin es el de emplear un reconocimiento facial que permita identificar los rasgos básicos en el rostro de una persona.
 
 ## Entrega No. 1 - Avance de Proyecto
 
