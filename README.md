@@ -14,4 +14,4 @@ Mediante el desarrollo y uso de [Redes Neuronales Convolucionales](https://www.j
 ## Entrega Proyecto Final
 [Cuaderno con el código realizado para el desarrollo del proyecto](https://github.com/dsperezba/Proyecto-Mineria-de-Datos/blob/main/Entrega%20Proyecto%20Final/Tratamiento%20de%20Imágenes%20(Notebook)%20-%20Reconocimiento%20Facial.ipynb)
 
-[renderización del cuaderno a NBViewer](https://nbviewer.jupyter.org/github/dsperezba/Proyecto-Mineria-de-Datos/blob/main/Entrega%20Proyecto%20Final/Tratamiento%20de%20Imágenes%20%28Notebook%29%20-%20Reconocimiento%20Facial.ipynb)
+[renderización del cuaderno a NBViewer](https://nbviewer.jupyter.org/github/dsperezba/Proyecto-Mineria-de-Datos/blob/main/Proyecto%20Mineria.ipynb)
