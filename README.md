@@ -13,4 +13,4 @@ Mediante el desarrollo y uso de [Redes Neuronales Convolucionales](https://www.j
 
 ## Entrega Proyecto Final
 
-Para la entrega final, se adjunta el código realizado en forma de [Cuaderno](https://github.com/dsperezba/Proyecto-Mineria-de-Datos/blob/main/Proyecto_Final.ipynb), además de la respectiva renderización de este en la plataforma [NBViewer](https://github.com/dsperezba/Proyecto-Mineria-de-Datos/blob/main/Proyecto_Final.ipynb). Finalmente, se establece un archivo .rar con el documento y las imágenes utilizadas en el desarrollo del cuaderno.
+Para la entrega final, se adjunta el código realizado en forma de [Cuaderno](https://github.com/dsperezba/Proyecto-Mineria-de-Datos/blob/main/Proyecto_Final.ipynb), además de la respectiva renderización de este en la plataforma [NBViewer](https://nbviewer.jupyter.org/github/dsperezba/Proyecto-Mineria-de-Datos/blob/main/Proyecto%20Mineria.ipynb). Finalmente, se establece un archivo .rar con el documento y las imágenes utilizadas en el desarrollo del cuaderno.
