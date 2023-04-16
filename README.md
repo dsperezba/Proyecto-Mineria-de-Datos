@@ -4,8 +4,6 @@
 
 #### Proyecto Presentado por:
 - David Santiago Pérez Barrios
-- Juan Pablo Garzón Rivera
-- Yeferson Fabian Rubio Montero
 
 ## Objetivo
 
